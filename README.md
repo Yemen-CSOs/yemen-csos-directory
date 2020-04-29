@@ -1,2 +1,2 @@
-# yemen-csos-directory
-Yemen CSOs Directory دليل منظمات المجتمع المدني العاملة في اليمن
+# Yemen Civil Society Organizations Directory
+دليل منظمات المجتمع المدني العاملة في اليمن
